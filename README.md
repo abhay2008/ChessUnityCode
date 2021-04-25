@@ -1,2 +1,2 @@
 # ChessUnityCode
-#Go To Core folder for the code!!
+# Go To Core folder for the code!!
